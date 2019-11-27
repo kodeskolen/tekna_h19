@@ -26,7 +26,7 @@ def show():
     savefig("plot.png")
     figure()  # Her lager vi en ny figur som neste plot blir laget i
 
-x = arange(10, 0.1)
+x = arange(1, 10, 0.1)
 y = x**2
 
 plot(x, y)
