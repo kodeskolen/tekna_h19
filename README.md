@@ -12,6 +12,6 @@ Eksemplene vi kodet dag en finner dere [her](bergen/dag1).
 Eksemplene vi kodet dag en finner dere [her](trondheim/dag1).
 
 ## Ekstramateriale
-Jeg har lagd litt ekstramateriale for dere, dette ligger i ekstra-mappa. [her](ekstra/plotting_i_replit.md)
-ser dere hvordan dere kan plotte med [repl.it](https://repl.it) of [her](ekstra/Notebook_demo.ipynb) er en
+Jeg har lagd litt ekstramateriale for dere, dette ligger i ekstra-mappa. [Her](ekstra/plotting_i_replit.md)
+ser dere hvordan dere kan plotte med [repl.it](https://repl.it) og [her](ekstra/Notebook_demo.ipynb) er en liten
 demonstrasjon av Jupyter notebooks.
