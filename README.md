@@ -2,6 +2,7 @@
 ## Kursmateriale for kræsjkurs i Python for Tekna høsten 2019 
 
 Kompendiet for dag en finner dere [her](Teknakurs_kompendie_dag1.pdf).
+
 Kompendiet for dag to finner dere [her](Teknakurs_kompendie_dag2.pdf).
 
 ## Bergen
