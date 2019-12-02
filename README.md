@@ -6,6 +6,7 @@ Kompendiet for dag en finner dere [her](Teknakurs_kompendie_dag1.pdf).
 Kompendiet for dag to finner dere [her](Teknakurs_kompendie_dag2.pdf).
 
 
+Løsningsforslag for dag en er [her](Fasit_teknakurs_del1.pdf) og fra dag to er [her](Fasit_teknakurs_del2.pdf)
 Presentasjonsslides fra dag en er [her](Presentasjon_teknakurs_del1.pdf) og fra dag to er [her](Presentasjon_teknakurs_del2.pdf)
 
 ## Bergen
